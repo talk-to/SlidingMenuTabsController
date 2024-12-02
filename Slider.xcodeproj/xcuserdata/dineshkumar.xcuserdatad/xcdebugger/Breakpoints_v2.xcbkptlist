@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "CC661244-6C29-45E5-84B2-9F30F293D73C"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "9864EC26-0F7E-443A-9A8D-C45AEFF27ABA"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Slider/Top Level Controllers/TabControllers.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "86"
+            endingLineNumber = "86"
+            landmarkName = "onSelectionAvoided()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "9864EC26-0F7E-443A-9A8D-C45AEFF27ABA - c78773c07f48da40"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Slider.SearchPlaceNavigationViewController.viewDidLoad() -&gt; ()"
+                  moduleName = "Slider"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/dineshkumar/Desktop/Junk/Slider/Slider/Top%20Level%20Controllers/TabControllers.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "82"
+                  endingLineNumber = "82"
+                  offsetFromSymbolStart = "48">
+               </Location>
+               <Location
+                  uuid = "9864EC26-0F7E-443A-9A8D-C45AEFF27ABA - 5e51ca0fc2700074"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Slider.SearchPlaceNavigationViewController.onSelectionAvoided() -&gt; ()"
+                  moduleName = "Slider"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/dineshkumar/Desktop/Junk/Slider/Slider/Top%20Level%20Controllers/TabControllers.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "80"
+                  endingLineNumber = "80"
+                  offsetFromSymbolStart = "32">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
